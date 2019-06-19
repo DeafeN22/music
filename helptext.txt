@@ -1,0 +1,20 @@
+Comandos:
+
+`ping` - Este comando irá testar tua conexão com o bot
+`help` - Abre esta mensagem de ajuda
+`join` - Entrarei no teu canal de voz
+`leave` - Deixarei teu canal de voz
+`play` - Irei tocar a musica que pretenderes
+`pause` - Irei pausar a música que está a tocar
+`resume` - Irei continuar a música que estava a tocar
+`time` - Tempo da música atual
+`add [type] [url/idfragment]` - Adicione uma música ao final da fila
+`remove [index]` - Remover música no índice
+`skip` - Pular a música atual
+`stop` - Pare a música atual e redefina para o começo
+`list` - Listar todas as músicas na fila
+`move [targetIndex] [up/down/destIndex]` - Mova a música na fila
+`shuffle` - Reproduzir músicas aleatoriamente na fila
+`clear` - Limpar músicas na fila
+`volume [0-100/nothing]` - Vai definir ou obter o volume atual
+`repeat` - Alternar modo de repetição de fila
