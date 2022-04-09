@@ -19,7 +19,7 @@
     "discord.js": "^11.5.1",
     "jsonfile": "^2.4.0",
     "minimist": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-opus": "^0.3.2",
     "typescript": "^3.5.1",
     "winston": "^3.2.1",
